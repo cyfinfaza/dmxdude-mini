@@ -701,6 +701,14 @@
     [
       "497bfd7a-c06a-4d4d-a320-8405be197f02",
       "Power"
+    ],
+    [
+      "d3b8d2d5-c3e6-441a-bceb-837788c2901c",
+      "WS2812 Output"
+    ],
+    [
+      "00e8db54-2aab-4140-b84c-fba32f59bb48",
+      "WS2812 Output1"
     ]
   ],
   "text_variables": {}
