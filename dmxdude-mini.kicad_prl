@@ -58,7 +58,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "dmxdude.kicad_prl",
+    "filename": "dmxdude-mini.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {

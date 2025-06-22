@@ -40,7 +40,7 @@
 			)
 		)
 		(instances
-			(project "dmxdude"
+			(project "dmxdude-mini"
 				(path "/bd7590c0-6a37-4bf0-a9f2-f26180744ceb"
 					(page "3")
 				)
@@ -82,7 +82,7 @@
 			)
 		)
 		(instances
-			(project "dmxdude"
+			(project "dmxdude-mini"
 				(path "/bd7590c0-6a37-4bf0-a9f2-f26180744ceb"
 					(page "5")
 				)
@@ -124,7 +124,7 @@
 			)
 		)
 		(instances
-			(project "dmxdude"
+			(project "dmxdude-mini"
 				(path "/bd7590c0-6a37-4bf0-a9f2-f26180744ceb"
 					(page "4")
 				)
@@ -166,7 +166,7 @@
 			)
 		)
 		(instances
-			(project "dmxdude"
+			(project "dmxdude-mini"
 				(path "/bd7590c0-6a37-4bf0-a9f2-f26180744ceb"
 					(page "2")
 				)
